@@ -11,7 +11,9 @@ import SwiftUI
 struct ExplorePlacesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DestinationListView()
+                .preferredColorScheme(.dark) // follows system theme
         }
     }
 }
+
