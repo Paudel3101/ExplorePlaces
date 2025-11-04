@@ -111,5 +111,5 @@ Open in Xcode 15 or newer, and run on iOS 17+ simulator or device.
 
 MIT License © 2025 @Paudel3101
 
-<div align="center" style="margin-top: 30px;"> <img src="https://img.shields.io/badge/SwiftUI-%F0%9F%93%9D-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/iOS-17+-green?style=for-the-badge"> <img src="https://img.shields.io/badge/MapKit-%F0%9F%8C%8D-purple?style=for-the-badge"> </div> ```
+<div align="center" style="margin-top: 30px;"> <img src="https://img.shields.io/badge/SwiftUI-%F0%9F%93%9D-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/iOS-17+-green?style=for-the-badge"> <img src="https://img.shields.io/badge/MapKit-%F0%9F%8C%8D-purple?style=for-the-badge"> </div>
 
